@@ -21,7 +21,7 @@ p.stage-direction:hover{
     color: blue;
 }
 h6.name:hover{
-    text-shadow: 3px 3px 2px yellow;
+    text-shadow: 3px 3px 2px rgb(12, 51, 226);
     border: 1px solid black;
 }
 h6.Damis{
@@ -30,7 +30,7 @@ h6.Damis{
 h6.Dorine{
     color:rgb(14, 231, 25);
 }
-h6.Damis{
+h6.Tartuffe{
     color:red;
 }
 
